@@ -1,0 +1,47 @@
+{
+  "item": {
+    "id": "com.xiaochong.campus",
+    "restype": "quick_app",
+    "name": "小宠校园",
+    "description": "勇者啊！你准备好踏上这条路了吗？带领充满未知宠物，筚路蓝缕！终于抵达王座山之巅！\n\n超多玩法等你来探！农场种菜！果蔬酿酒？运货的小货车正在田间地头颠簸！奇趣扭蛋机！？摇出无限可能！小虎电玩城，爽玩街机小游戏！爽快战斗！各种装备由你搭配！勇气！毅力！高塔之上，影龙正缓缓睁眼~ 恶战已经不可避免.......拿起你的武器吧！勇者。\n\n1 群：1061929132（将满）\n2 群：1076993443（将满）\n3 群：631010124（将满）\n4 群：1121545874",
+    "preview": [
+      "media/9P-2026-04-15-14-21-04.png",
+      "media/9P-2026-04-15-14-32-00.png",
+      "media/9P-2026-04-15-14-27-08.png",
+      "media/9P-2026-11-17-05-45-48.png",
+      "media/9P-2026-11-17-05-47-17.png",
+      "media/9P-2026-11-17-05-47-35.png",
+      "media/9P-2026-11-17-05-48-56.png",
+      "media/download.png",
+      "media/画板 74.png",
+      "media/9P-2026-11-17-05-53-45.png",
+      "media/9P-2026-11-17-05-53-56.png",
+      "media/9P-2026-11-17-05-54-04.png",
+      "media/gbl2-2026-11-17-05-54-51.png",
+      "media/gbl2-2026-11-17-05-55-03.png",
+      "media/9P-2026-11-17-05-57-57.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/bu.png",
+    "author": [
+      {
+        "name": "Fan9366",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.4.2",
+      "file_name": "downloads/com.xiaochong.campus.release.1.4.2.rpk",
+      "versionCode": 142
+    },
+    "xmb10p": {
+      "version": "1.4.2",
+      "file_name": "downloads/com.xiaochong.campus.release.1.4.2.rpk",
+      "versionCode": 142
+    }
+  },
+  "ext": {}
+}
