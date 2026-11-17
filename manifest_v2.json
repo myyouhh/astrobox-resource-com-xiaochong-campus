@@ -30,7 +30,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "同步器（提取码：4ahs）",
+      "url": "https://xiaolibl.lanzouc.com/i9PwD4a22s5c",
+      "icon": "download-simple"
+    }
+  ],
   "downloads": {
     "xmb9p": {
       "version": "1.4.2",
